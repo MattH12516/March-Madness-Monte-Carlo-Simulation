@@ -23,7 +23,7 @@ This project simulates the NCAA March Madness tournament by running 10,000+ rand
 - **Interactive HTML Output**: Searchable, sortable results table with probability highlighting
 - **Clean Modular Code**: Separated concerns for maintainability and testing
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -125,7 +125,7 @@ for team in all_teams:
 
 **Full advance probabilities** available in the HTML output for all teams and all rounds.
 
-## ⚠️ Note on Play-In Games
+## Note on Play-In Games
 
 This simulation uses the first team listed in play-in matchups as a simplification. For most accurate results, update the bracket in `src/simulate_monte_carlo.py` after play-in games are completed.
 
@@ -135,7 +135,7 @@ Current play-ins:
 - (11)SMU vs (11)Miami OH → Update to winner
 - (16)Prairie View A&M vs(16)Lehigh → Update to winner
 
-## 📝 Requirements
+## Requirements
 
 ```
 pandas>=1.3.0
@@ -144,7 +144,7 @@ pandas>=1.3.0
 
 This is a personal portfolio project, but suggestions and feedback are welcome! Feel free to open an issue if you find bugs or have ideas for improvements.
 
-## 📄 License
+## License
 
 MIT License - feel free to use this code for your own projects.
 
@@ -153,11 +153,4 @@ MIT License - feel free to use this code for your own projects.
 - **Kenpom** (kenpom.com) - Advanced basketball analytics
 - **Torvik** (barttorvik.com) - Basketball efficiency ratings
 
-
-## 📧 Contact
-
-Questions? Reach out via [GitHub Issues](https://github.com/yourusername/march-madness-simulator/issues).
-
----
-
-**Note**: This simulator is for educational and analytical purposes. Results should not be used as sole basis for betting decisions.
+**Note**: This simulator is for educational and analytical purposes.
