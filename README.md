@@ -57,7 +57,9 @@ Open `outputs/monte_carlo_results.html` from your folder then it should open in 
 - Color-coded by seed with probability highlighting
 - Methodology explanation
 
-**[See example output](outputs/monte_carlo_results.html)** ← Example from actual simulation run
+**See example output** -- Example from actual simulation run
+
+![Monte Carlo Results Example](html Monte Carlo Results Example.png)
 
 ## Methodology
 
