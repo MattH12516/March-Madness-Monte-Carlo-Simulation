@@ -1,6 +1,6 @@
 # March Madness Monte Carlo Simulator
 
-A probabilistic NCAA Tournament simulator that combines Kenpom and Torvik efficiency ratings with Monte Carlo Simulation to predict future tournament outcomes.
+A probabilistic NCAAW Tournament simulator that combines Kenpom and Torvik efficiency ratings with Monte Carlo Simulation to predict future tournament outcomes.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -19,7 +19,7 @@ This project simulates the NCAA March Madness tournament by running 10,000+ rand
 ## Features
 
 - **Monte Carlo Simulation**: Runs 10,000+ tournament simulations to calculate advance probabilities
-- **Dual-Model Approach**: Combines Kenpom and Torvik efficiency ratings for robust predictionsrobust
+- **Dual-Model Approach**: Combines Kenpom and Torvik efficiency ratings for robust predictions
 - **Interactive HTML Output**: Searchable, sortable results table with probability highlighting
 - **Clean Modular Code**: Separated concerns for maintainability and testing
 
@@ -29,8 +29,8 @@ This project simulates the NCAA March Madness tournament by running 10,000+ rand
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/march-madness-simulator.git
-cd march-madness-simulator
+git clone https://github.com/yourusername/March-Madness-Monte-Carlo-Simulation.git
+cd March-Madness-Monte-Carlo-Simulation
 
 # Install dependencies
 pip install -r requirements.txt
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```bash
 # From the project root directory
 cd src
-python run_simulation.py
+python test_monte_carlo_.py
 ```
 
 This will:
