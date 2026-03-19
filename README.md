@@ -59,7 +59,7 @@ Open `outputs/monte_carlo_results.html` from your folder then it should open in 
 
 **See example output** -- Example from actual simulation run
 
-![Monte Carlo Results Example](html Monte Carlo Results Example.png)
+![Monte Carlo Results Example](html_Monte_Carlo_Results_Example.png)
 
 ## Methodology
 
